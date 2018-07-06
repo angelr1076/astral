@@ -1553,6 +1553,7 @@ input, select, textarea {
 		.image img {
 			display: block;
 			width: 100%;
+			border-radius: 5px;
 		}
 
 		.image.fit {
@@ -1754,6 +1755,7 @@ input, select, textarea {
 
 	a {
 		text-decoration: none;
+		font-size: smaller;
 	}
 
 	#nav {
